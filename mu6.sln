@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mu6.ODataBackend", "ODataBackend/mu6.ODataBackend.csproj", "{F09BC75C-EECD-4AC5-96CE-CC5B65261627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mu6.Objects", "Objects/mu6.Objects.csproj", "{F3901097-5CB7-43DD-8B00-143610764512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09BC75C-EECD-4AC5-96CE-CC5B65261627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09BC75C-EECD-4AC5-96CE-CC5B65261627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09BC75C-EECD-4AC5-96CE-CC5B65261627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09BC75C-EECD-4AC5-96CE-CC5B65261627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3901097-5CB7-43DD-8B00-143610764512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3901097-5CB7-43DD-8B00-143610764512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3901097-5CB7-43DD-8B00-143610764512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3901097-5CB7-43DD-8B00-143610764512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
